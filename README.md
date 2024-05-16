@@ -25,7 +25,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **Data Science Projects** like [ASL](https://github.com/Rojal123245/ASL)
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 - 👯 I’m looking to collaborate on **Data Science and Web Development Projects**
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/Rojal123245)
