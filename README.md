@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Rojal Pradhan</h1>
+<h1 align="center">Hi 👋, I'm Rojal Pradhan
+
+</h1>
 <h3 align="center">A passionate Full Stack Developer from the Land of the Himalayas, Nepal</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=rojal123245" alt="rojal123245" />
@@ -8,6 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=rojal123245&label=Profile%20views&color=0e75b6&style=flat" alt="rojal123245" />
 
 </p>
+<img align="right" alt="coding gif" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" width="400" >
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rojal123245&show_icons=true&locale=en&layout=compact" alt="rojal123245" />
@@ -17,9 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojal123245&show_icons=true&locale=en" alt="rojal123245" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rojal123245&" alt="rojal123245" />
-</p>
+
 
 ---
 
