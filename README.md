@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=rojal123245&label=Profile%20views&color=0e75b6&style=flat" alt="rojal123245" />
 
 </p>
-<img align="right" alt="coding gif" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" width="400" >
+<img align="right" alt="coding gif" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" width="400" height= "300">
 
 
 <p align="center">
