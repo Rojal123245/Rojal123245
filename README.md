@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Rojal Pradhan
-
+🚀 Full Stack Developer | Data Science & Machine Learning Enthusiast
+📍 Based in Nepal 🇳🇵
+ I specialize in building scalable web applications and data-driven AI solutions. Passionate about problem-solving, open-source contributions, and continuous learning.”
 </h1>
 <h3 align="center">A passionate Full Stack Developer from the Land of the Himalayas ⛰️, Nepal 🇳🇵</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -19,10 +21,20 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojal123245&show_icons=true&locale=en" alt="rojal123245" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rojal123245&show_icons=true&theme=dark)
 </p>
+---
 
+🛠 Tech Stack & Tools
+	•	Languages: Python, JavaScript, PHP, Rust
+	•	Frontend: React.js, Vue.js, HTML, CSS, TypeScript
+	•	Backend: Node.js, Laravel, Pimcore
+	•	Databases: MySQL, MongoDB
+	•	DevOps & Cloud: AWS, Docker, Nginx
+	•	AI/ML: TensorFlow, PyTorch, Scikit-learn
+	•	Other: Git, Jupyter Notebook
 
-
+---
 ---
 
 - 🔭 I’m currently working on **Data Science Projects** like [ASL](https://github.com/Rojal123245/ASL)
@@ -30,7 +42,8 @@
 - 👯 I’m looking to collaborate on **Data Science and Web Development Projects**
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/Rojal123245)
 - 💬 Ask me about **Pimcore, Python, Laravel, React.js, Vue.js**
-- 📫 How to reach me **rojalpradhan27@gmail.com**
+- 🚀 Looking for a Full Stack Developer or AI Engineer?
+- 📩 Let’s connect! Reach me at rojalpradhan27@gmail.com or on [LinkedIn](https://www.linkedin.com/in/rojal-pradhan/).
 
 ---
 
